@@ -29,13 +29,13 @@ global.ownername = 'ㅤㅤㅤㅤ'
 global.onlyowner = `𝘴𝘰𝘳𝘳𝘺 𝘰𝘯𝘭𝘺 𝘧𝘰𝘳  𝘰𝘸𝘯𝘦𝘳𝘴
 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 ㅤㅤㅤㅤ 𝘵𝘰 𝘣𝘦 𝘢𝘯 𝘰𝘸𝘯𝘦𝘳`
   // reply 
-global.database = `𝘛𝘰 𝘣𝘦 𝘪𝘯  𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦 𝘣𝘢𝘴𝘦 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘙𝘪𝘤𝘩𝘪𝘦*`
+global.database = `𝘛𝘰 𝘣𝘦 𝘪𝘯  𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦 𝘣𝘢𝘴𝘦 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 ㅤㅤㅤㅤ*`
   global.mess = {
 wait: "```WAIT FOR ㅤㅤㅤㅤ 🀄```",
    success: "𝑺𝒖𝒄𝒄𝒆𝒔𝒔 ㅤㅤㅤㅤ",
    on: "ㅤㅤㅤㅤ active bro", 
    prem: "FOR PREMIUM USERS ONLY ADD YOUR NUMBER TO DATABASE TO ACCESS PREMIUM", 
-   off: "Akane off",
+   off: "ㅤㅤㅤㅤ off",
    query: {
        text: "Where's the text, man?",
        link: "Where's the link, bro?",
@@ -46,10 +46,10 @@ wait: "```WAIT FOR ㅤㅤㅤㅤ 🀄```",
    only: {
        group: "Sorry bro, This Feature Can Only Be Used In Groups only",
 private: "Sorry bro, This Feature Can Only Be Used In Private Chats",
-       owner: "Sorry bro, This Feature Can Only Be Used by Richie",
+       owner: "Sorry bro, This Feature Can Only Be Used by ㅤㅤㅤㅤ",
        admin: " Sorry, this feature can only be used by Bot Admins",
        badmin: "Sorry, bro, It Looks Like You Can't Use This Feature Because the Bot is Not yet Group Admin",
-       premium: "This feature is specifically for Richie beloved Premium users",
+       premium: "This feature is specifically for ㅤㅤㅤㅤ beloved Premium users",
    }
 }
 
