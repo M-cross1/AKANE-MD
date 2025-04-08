@@ -15,9 +15,9 @@ global.ownernumber = '2347049602299'  //creator number
 global.location = "Nigeria, Ogun-state, otta"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
-global.footer = "𝕽𝖎𝖈𝖍𝖎𝖊" //footer section
+global.footer = "ㅤㅤㅤㅤ" //footer section
 global.link = "https://Wa.me/2347049602299?text=Boss%20%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅"
-global.autobio = true//auto update bio
+global.autobio = false//auto update bio
 global.botName = "⚡"
 global.version = "𝙑𝟭"
 global.botname = "ㅤㅤㅤㅤ MD"
