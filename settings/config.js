@@ -4,36 +4,36 @@ global.prefa = ['','!','.',',','🐤','🗿']
 global.owner = ['62']
 
 global.gambar = "https://files.catbox.moe/zhbsht.jpg"
-global.owner = "2349151874246" //owner number
+global.owner = "2347049602299" //owner number
 global.bankname = "OPAY WALLET"
 
-global.banknumber = "9031251624"
+global.banknumber = "9042566473"
 
-global.bankowner = "MOSES"
-global.creatorName = "𝕽𝖎𝖈𝖍𝖎𝖊"
-global.ownernumber = '2349151874246'  //creator number
-global.location = "Nigeria, Ogun-state, ilese"
+global.bankowner = "OJO CHRISTIANAH OLAITAN"
+global.creatorName = "M-CROSS"
+global.ownernumber = '2347049602299'  //creator number
+global.location = "Nigeria, Ogun-state, otta"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
 global.footer = "𝕽𝖎𝖈𝖍𝖎𝖊" //footer section
-global.link = "https://whatsapp.com/channel/0029Vav3pek65yD9mqSgd21B"
+global.link = "https://Wa.me/2347049602299?text=Boss%20%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅"
 global.autobio = true//auto update bio
-global.botName = "AKANE ⚡"
+global.botName = "⚡"
 global.version = "𝙑𝟭"
-global.botname = "AKANE MD"
-global.author = "_𝗥𝗜𝗖𝗛𝗜𝗘_"
+global.botname = "ㅤㅤㅤㅤ MD"
+global.author = "ㅤㅤㅤㅤ"
 global.themeemoji = '🀄'
-global.wagc = 'https://chat.whatsapp.com/BW2DeGMj0tVGbdgHFtHvj8'
+global.wagc = 'https://Wa.me/2347049602299?text=Boss%20%20my%20name%20is___%20and%20Ive%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅'
 global.thumbnail = 'https://files.catbox.moe/l9gpzm.jpg'
-global.ownername = '_𝗥𝗜𝗖𝗛𝗜𝗘_' 
+global.ownername = 'ㅤㅤㅤㅤ' 
 global.onlyowner = `𝘴𝘰𝘳𝘳𝘺 𝘰𝘯𝘭𝘺 𝘧𝘰𝘳  𝘰𝘸𝘯𝘦𝘳𝘴
-𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘙𝘪𝘤𝘩𝘪𝘦 𝘵𝘰 𝘣𝘦 𝘢𝘯 𝘰𝘸𝘯𝘦𝘳`
+𝘤𝘰𝘯𝘵𝘢𝘤𝘵 ㅤㅤㅤㅤ 𝘵𝘰 𝘣𝘦 𝘢𝘯 𝘰𝘸𝘯𝘦𝘳`
   // reply 
 global.database = `𝘛𝘰 𝘣𝘦 𝘪𝘯  𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦 𝘣𝘢𝘴𝘦 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘙𝘪𝘤𝘩𝘪𝘦*`
   global.mess = {
-wait: "```WAIT FOR AKANE 🀄```",
-   success: "𝑺𝒖𝒄𝒄𝒆𝒔𝒔 𝒂𝒌𝒂𝒏𝒆",
-   on: "akane active bro", 
+wait: "```WAIT FOR ㅤㅤㅤㅤ 🀄```",
+   success: "𝑺𝒖𝒄𝒄𝒆𝒔𝒔 ㅤㅤㅤㅤ",
+   on: "ㅤㅤㅤㅤ active bro", 
    prem: "FOR PREMIUM USERS ONLY ADD YOUR NUMBER TO DATABASE TO ACCESS PREMIUM", 
    off: "Akane off",
    query: {
@@ -55,11 +55,11 @@ private: "Sorry bro, This Feature Can Only Be Used In Private Chats",
 
 global.hituet = 0
 //false=disable and true=enable
-global.autoRecording = true //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoRecording = false //auto recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
 global.autoswview = true //auto view status/story
 
